@@ -1,3 +1,4 @@
+#TotoAnalyzer
 TotoAnalyzer is a C# console application for analyzing historical draw data from the Bulgarian Sport Toto lottery. It fetches draw results across a user-defined time range and provides several statistical tools to uncover patterns in the numbers.
 Features
 
