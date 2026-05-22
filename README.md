@@ -17,6 +17,6 @@ Interface: interactive CLI menu with Bulgarian-language prompts
 
 Getting Started
 
-1. Clone the repository
-2. Build and run with dotnet run
-3. Select option 1 to load a time period, then explore the statistics via the menu
+1. Clone the repository.
+2. Build and run with dotnet run.
+3. Select option 1 to load a time period, then explore the statistics via the menu.
